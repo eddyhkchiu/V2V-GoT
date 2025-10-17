@@ -32,7 +32,7 @@ Please follow steps 1 ~ 4 of [DMSTrack](https://github.com/eddyhkchiu/DMSTrack/b
 Please follow [LLaVA 1.5](https://github.com/haotian-liu/LLaVA) instructions to setup the llava conda env.
 
 ## Dataset
-Please download the three zip files from [V2V-GoT-QA](https://huggingface.co/datasets/eddyhkchiu/V2V-GoT-QA), save them to the V2V-GoT folder, and then unzip them.
+Please download the three zip files from [V2V-GoT-QA](https://huggingface.co/datasets/eddyhkchiu/V2V-GoT-QA/tree/main), save them to the V2V-GoT folder, and then unzip them.
 The file dataset_processed_features_and_gt.zip has V2V4Real 3D object detection results, processed perception features, point clouds, and ground-truth data.
 The file dataset_jsons.zip has V2V-GoT-QA and V2V-QA data.
 The file model_ckpt.zip has model checkpoints of V2V-GoT and V2V-LLM that can reproduce the performance numbers in our paper.
