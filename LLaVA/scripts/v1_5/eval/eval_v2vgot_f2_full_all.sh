@@ -1,0 +1,11 @@
+source LLaVA/scripts/v1_5/eval/eval_v2v4real_3d_grounding_nq1.sh v2vgot_10ep_both_shallow_f2 nq1sm3w0d full 4330
+source LLaVA/scripts/v1_5/eval/eval_v2v4real_3d_grounding_nq2.sh v2vgot_10ep_both_shallow_f2 nq2sm3w0d full 4330
+source LLaVA/scripts/v1_5/eval/eval_v2v4real_3d_grounding_nq3.sh v2vgot_10ep_both_shallow_f2 nq3sm3w0dc full 4330
+source LLaVA/scripts/v1_5/eval/eval_v2v4real_3d_grounding_nq4.sh v2vgot_10ep_both_shallow_f2 nq4sm3w0dc full 4330
+
+source LLaVA/scripts/v1_5/eval/eval_v2v4real_3d_grounding_nq5.sh v2vgot_10ep_both_shallow_f2 nq5sm3w1dc full 4330
+source LLaVA/scripts/v1_5/eval/eval_v2v4real_3d_grounding_nq6.sh v2vgot_10ep_both_shallow_f2 nq6sm3w1dc full 4330
+source LLaVA/scripts/v1_5/eval/eval_v2v4real_3d_grounding_nq7.sh v2vgot_10ep_both_shallow_f2 nq7sm3w1dc full 4330
+
+source LLaVA/scripts/v1_5/eval/eval_v2v4real_3d_grounding_nq8.sh v2vgot_10ep_both_shallow_f2 nq8sm3w6dc full 4330
+source LLaVA/scripts/v1_5/eval/eval_v2v4real_3d_grounding_nq9.sh v2vgot_10ep_both_shallow_f2 nq9sm3w6dc full 4330
